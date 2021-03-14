@@ -1,3 +1,3 @@
 # MxShop
-first drf project
+first drf project  
 using pip install -r requirements.txt to install dependencies
